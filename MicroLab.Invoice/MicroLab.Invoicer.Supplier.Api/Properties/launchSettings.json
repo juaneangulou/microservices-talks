@@ -1,0 +1,34 @@
+{
+  "profiles": {
+    "MicroLab.Invoicer.Supplier.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DatabaseConnectionString": "Data Source=localhost,1433;Initial Catalog=invoicer;Integrated Security=False;User Id=sa;Password=Abc.123456;MultipleActiveResultSets=True; TrustServerCertificate=True",
+        "AuthorityValue": "https://microlabshl.us.auth0.com/",
+        "AudienceValue": "https://microlabshl.us.auth0.com/api/v2/"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7246;http://localhost:5189"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:53174",
+      "sslPort": 44307
+    }
+  }
+}

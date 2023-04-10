@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MicroLab.Invoicer.Customer.Api.props" />
+</Project>

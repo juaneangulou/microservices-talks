@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XX7cklRfRlJ3yYLqdzrNm9hg9tA01atJbpub5WIJ/8c=",
+  "Source": "MicroLab.Invoicer.Customer.Api",
+  "BasePath": "_content/MicroLab.Invoicer.Customer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
