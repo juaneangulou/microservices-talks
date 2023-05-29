@@ -1,4 +1,12 @@
-USE [invoicer]
+USE master;
+IF NOT EXISTS (SELECT * FROM sys.databases WHERE name = 'invoicerdb')
+BEGIN
+    CREATE DATABASE invoicerdb;
+END
+GO
+
+USE invoicerdb;
+GO
 
 CREATE TABLE [dbo].[Credits](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
