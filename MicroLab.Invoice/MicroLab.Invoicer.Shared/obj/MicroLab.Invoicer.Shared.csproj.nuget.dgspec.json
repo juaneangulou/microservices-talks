@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proj\\microservices-talks-repo\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\MicroLab.Invoicer.Shared.csproj": {}
+    "C:\\proj\\microservices-talks\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\MicroLab.Invoicer.Shared.csproj": {}
   },
   "projects": {
-    "C:\\proj\\microservices-talks-repo\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\MicroLab.Invoicer.Shared.csproj": {
+    "C:\\proj\\microservices-talks\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\MicroLab.Invoicer.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proj\\microservices-talks-repo\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\MicroLab.Invoicer.Shared.csproj",
+        "projectUniqueName": "C:\\proj\\microservices-talks\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\MicroLab.Invoicer.Shared.csproj",
         "projectName": "MicroLab.Invoicer.Shared",
-        "projectPath": "C:\\proj\\microservices-talks-repo\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\MicroLab.Invoicer.Shared.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\proj\\microservices-talks-repo\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\obj\\",
+        "projectPath": "C:\\proj\\microservices-talks\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\MicroLab.Invoicer.Shared.csproj",
+        "packagesPath": "C:\\Users\\jangu\\.nuget\\packages\\",
+        "outputPath": "C:\\proj\\microservices-talks\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jangu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -78,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

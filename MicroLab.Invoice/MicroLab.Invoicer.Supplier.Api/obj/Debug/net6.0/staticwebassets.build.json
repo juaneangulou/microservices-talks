@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "FOj39O0gS4Jc370FCtiUStHtor7iSC5b5Q1bsB3wMYc=",
+  "Hash": "MGu9ZfC+Cg1EIQMj68/8VzWwGgJtSdFui5EASYVoTsc=",
   "Source": "MicroLab.Invoicer.Supplier.Api",
   "BasePath": "_content/MicroLab.Invoicer.Supplier.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\proj\\labs\\MicroLab.Invoice\\MicroLab.Invoicer.Customer.Api\\MicroLab.Invoicer.Customer.Api.csproj",
+      "Identity": "C:\\proj\\microservices-talks\\MicroLab.Invoice\\MicroLab.Invoicer.Customer.Api\\MicroLab.Invoicer.Customer.Api.csproj",
       "Version": 2,
       "Source": "MicroLab.Invoicer.Customer.Api",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

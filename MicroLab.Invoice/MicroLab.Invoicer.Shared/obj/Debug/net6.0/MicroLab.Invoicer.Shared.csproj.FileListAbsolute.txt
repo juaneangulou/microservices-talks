@@ -10,3 +10,15 @@ C:\proj\labs\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\MicroLab
 C:\proj\labs\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\refint\MicroLab.Invoicer.Shared.dll
 C:\proj\labs\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\MicroLab.Invoicer.Shared.pdb
 C:\proj\labs\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\ref\MicroLab.Invoicer.Shared.dll
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\bin\Debug\net6.0\MicroLab.Invoicer.Shared.deps.json
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\bin\Debug\net6.0\MicroLab.Invoicer.Shared.dll
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\bin\Debug\net6.0\MicroLab.Invoicer.Shared.pdb
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\MicroLab.Invoicer.Shared.csproj.AssemblyReference.cache
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\MicroLab.Invoicer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\MicroLab.Invoicer.Shared.AssemblyInfoInputs.cache
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\MicroLab.Invoicer.Shared.AssemblyInfo.cs
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\MicroLab.Invoicer.Shared.csproj.CoreCompileInputs.cache
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\MicroLab.Invoicer.Shared.dll
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\refint\MicroLab.Invoicer.Shared.dll
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\MicroLab.Invoicer.Shared.pdb
+C:\proj\microservices-talks\MicroLab.Invoice\MicroLab.Invoicer.Shared\obj\Debug\net6.0\ref\MicroLab.Invoicer.Shared.dll

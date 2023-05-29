@@ -6,7 +6,7 @@
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "DatabaseConnectionString": "Data Source=localhost,1433;Initial Catalog=invoicer;Integrated Security=False;User Id=sa;Password=Abc.123456;MultipleActiveResultSets=True; TrustServerCertificate=True",
+        "DatabaseConnectionString": "Data Source=localhost,1433;Initial Catalog=invoicerdb;Integrated Security=False;User Id=sa;Password=Abc.123456;MultipleActiveResultSets=True; TrustServerCertificate=True",
         "AuthorityValue": "https://microlabshl.us.auth0.com/",
         "AudienceValue": "https://microlabshl.us.auth0.com/api/v2/"
       },
