@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  invoicer-db-server1:
+    container_name: invoicer-db-server1
+    build:
+        context: .
+        dockerfile: ./mssql-invoicerdb.dockerfile
+    ports:
+        - '1433:1433'

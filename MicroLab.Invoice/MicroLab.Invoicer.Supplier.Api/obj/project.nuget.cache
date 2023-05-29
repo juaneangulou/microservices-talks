@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XpVcqTz7FpTIGC0birquN7t8vy5cBfCk391bS4j5SBtbUiti65x8w05PUN0g6vB2G0sHtjICHUBa0tAX0zrtyw==",
+  "dgSpecHash": "HerVoOMUWFjoa+uaTQ2+8aNMmU0wGcJsuzBJMiEQ13E09HUd9IsJQ5wNmV7po6jtyZ4c4Wlq52Nh3ygF0P0Irw==",
   "success": true,
   "projectFilePath": "C:\\proj\\microservices-talks\\MicroLab.Invoice\\MicroLab.Invoicer.Supplier.Api\\MicroLab.Invoicer.Supplier.Api.csproj",
   "expectedPackageFiles": [

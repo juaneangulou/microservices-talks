@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MicroLab.Invoicer.Customer.Api\MicroLab.Invoicer.Customer.Api.csproj" />
     <ProjectReference Include="..\MicroLab.Invoicer.Shared\MicroLab.Invoicer.Shared.csproj" />
   </ItemGroup>
 

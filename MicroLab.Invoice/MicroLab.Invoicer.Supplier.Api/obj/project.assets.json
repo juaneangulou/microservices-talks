@@ -844,24 +844,6 @@
           }
         }
       },
-      "MicroLab.Invoicer.Customer.Api/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "MicroLab.Invoicer.Shared": "1.0.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.15",
-          "Swashbuckle.AspNetCore": "6.2.3"
-        },
-        "compile": {
-          "bin/placeholder/MicroLab.Invoicer.Customer.Api.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MicroLab.Invoicer.Customer.Api.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
       "MicroLab.Invoicer.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2195,11 +2177,6 @@
         "version.txt"
       ]
     },
-    "MicroLab.Invoicer.Customer.Api/1.0.0": {
-      "type": "project",
-      "path": "../MicroLab.Invoicer.Customer.Api/MicroLab.Invoicer.Customer.Api.csproj",
-      "msbuildProject": "../MicroLab.Invoicer.Customer.Api/MicroLab.Invoicer.Customer.Api.csproj"
-    },
     "MicroLab.Invoicer.Shared/1.0.0": {
       "type": "project",
       "path": "../MicroLab.Invoicer.Shared/MicroLab.Invoicer.Shared.csproj",
@@ -2208,7 +2185,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "MicroLab.Invoicer.Customer.Api >= 1.0.0",
       "MicroLab.Invoicer.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.15",
       "Swashbuckle.AspNetCore >= 6.2.3"
@@ -2247,9 +2223,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\proj\\microservices-talks\\MicroLab.Invoice\\MicroLab.Invoicer.Customer.Api\\MicroLab.Invoicer.Customer.Api.csproj": {
-              "projectPath": "C:\\proj\\microservices-talks\\MicroLab.Invoice\\MicroLab.Invoicer.Customer.Api\\MicroLab.Invoicer.Customer.Api.csproj"
-            },
             "C:\\proj\\microservices-talks\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\MicroLab.Invoicer.Shared.csproj": {
               "projectPath": "C:\\proj\\microservices-talks\\MicroLab.Invoice\\MicroLab.Invoicer.Shared\\MicroLab.Invoicer.Shared.csproj"
             }

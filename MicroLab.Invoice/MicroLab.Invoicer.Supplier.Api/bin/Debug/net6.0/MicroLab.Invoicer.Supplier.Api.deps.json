@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v6.0": {
       "MicroLab.Invoicer.Supplier.Api/1.0.0": {
         "dependencies": {
-          "MicroLab.Invoicer.Customer.Api": "1.0.0",
           "MicroLab.Invoicer.Shared": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.15",
           "Swashbuckle.AspNetCore": "6.2.3"
@@ -479,16 +478,6 @@
           }
         }
       },
-      "MicroLab.Invoicer.Customer.Api/1.0.0": {
-        "dependencies": {
-          "MicroLab.Invoicer.Shared": "1.0.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.15",
-          "Swashbuckle.AspNetCore": "6.2.3"
-        },
-        "runtime": {
-          "MicroLab.Invoicer.Customer.Api.dll": {}
-        }
-      },
       "MicroLab.Invoicer.Shared/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.15",
@@ -836,11 +825,6 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
-    },
-    "MicroLab.Invoicer.Customer.Api/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "MicroLab.Invoicer.Shared/1.0.0": {
       "type": "project",
